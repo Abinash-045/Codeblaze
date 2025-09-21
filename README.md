@@ -27,15 +27,7 @@ An advanced full-stack career development platform built with Next.js, Neon DB, 
 
 Technology, Financial Services, Healthcare, Manufacturing, Retail, Media, Education, Energy, Consulting, Telecom, Transportation, Agriculture, Construction, Hospitality, Non-Profit, and more.
 
-## Testimonials
 
-1 "The AI-powered interview prep was a game-changer. Landed my dream job at a top tech company!" — Sarah Chen, Software Engineer
-
-
-2 "The industry insights helped me pivot my career successfully. The salary data was spot-on!" — Michael Rodriguez, Product Manager
-
-
-3 "My resume's ATS score improved significantly. Got more interviews in two weeks than in six months!" — Priya Patel, Marketing Director
 
 ## Tech Stack
 
