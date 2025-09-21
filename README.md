@@ -29,9 +29,9 @@ Technology, Financial Services, Healthcare, Manufacturing, Retail, Media, Educat
 
 ## Testimonials
 
-> "The AI-powered interview prep was a game-changer. Landed my dream job at a top tech company!" — Sarah Chen, Software Engineer
-> "The industry insights helped me pivot my career successfully. The salary data was spot-on!" — Michael Rodriguez, Product Manager
-> "My resume's ATS score improved significantly. Got more interviews in two weeks than in six months!" — Priya Patel, Marketing Director
+1 "The AI-powered interview prep was a game-changer. Landed my dream job at a top tech company!" — Sarah Chen, Software Engineer
+2 "The industry insights helped me pivot my career successfully. The salary data was spot-on!" — Michael Rodriguez, Product Manager
+3 "My resume's ATS score improved significantly. Got more interviews in two weeks than in six months!" — Priya Patel, Marketing Director
 
 ## Tech Stack
 
